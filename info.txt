@@ -15,3 +15,8 @@ RestServer
     eliminar del repositorio .env
     git rm .env --cached
     git commit -m ".env borrado"
+
+    variable de entorno heroku:
+    heroku config => ver las variables de entorno
+    heroku config:set MONGODB_CNN="clave" => crear una variable de entorno
+
