@@ -2,3 +2,12 @@ RestServer
 
     Middleware:
         Son funciones que van a ańadirle otra funcionalidad al webserver
+
+    Instalar mongoose:
+    npm i mongoose
+
+    Encriptar password:
+    npm i bcryptjs
+
+    Validar campos con Express
+    npm i express-validator
