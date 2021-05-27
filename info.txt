@@ -11,3 +11,7 @@ RestServer
 
     Validar campos con Express
     npm i express-validator
+
+    eliminar del repositorio .env
+    git rm .env --cached
+    git commit -m ".env borrado"
