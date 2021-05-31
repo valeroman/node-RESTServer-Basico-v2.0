@@ -20,3 +20,6 @@ RestServer
     heroku config => ver las variables de entorno
     heroku config:set MONGODB_CNN="clave" => crear una variable de entorno
 
+    Instalar jwt:
+    npm i jsonwebtoken
+
