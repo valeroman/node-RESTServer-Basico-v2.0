@@ -23,3 +23,22 @@ RestServer
     Instalar jwt:
     npm i jsonwebtoken
 
+    Autenticacion con google => https://developers.google.com/identity/sign-in/web/sign-in
+
+    1- Go to the Credentials page.
+    2- Click Create credentials > OAuth client ID.
+    3- Select the Web application application type.
+    4- Name your OAuth 2.0 client and click Create
+
+
+    Aplicación web:
+        Tipo de aplicación 
+    Nombre:    
+        Hueco
+
+    URI 
+        http://localhost:7000
+        https://restserver-node-rv.herokuapp.com
+
+    Instalar: Using a Google API Client Library
+    npm install google-auth-library --save
