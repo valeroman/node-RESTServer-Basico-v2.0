@@ -46,6 +46,9 @@ const ProductoSchema = new Schema({
     ratings: {
         type: Number,
         default: 0
+    },
+    img: {
+        type: String
     }
 });
 

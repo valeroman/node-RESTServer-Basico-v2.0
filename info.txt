@@ -42,3 +42,11 @@ RestServer
 
     Instalar: Using a Google API Client Library
     npm install google-auth-library --save
+
+    Subir archivos al servidor
+    Instalar express-fileupload => https://www.npmjs.com/package/express-fileupload
+    npm i express-fileupload
+
+    Instalar uuid => npm i uuid
+
+    Instalar cloudinary => npm i cloudinary
